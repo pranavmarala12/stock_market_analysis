@@ -10,5 +10,5 @@ First, I used ax.set_yscale('linear') - this created the output that allowed NVD
 
 I pivoted and used ax.set_yscale('log') - this fixed the chart being totally skewed by NVDA. This allowed the scaling of the Y axis to use a logarithmic scale (10^2, 10^3, etc) and subsequently fixed the skew. This can seen in the "data with log.png" file. 
 
-
+While every coding project requires some problem solving skills, this project was a prime opportunity for me to think outside the box and leverage outside resources to not just customize the appearance of my graph, but significantly change the way my data was displayed. As a finance major during undergraduate study this was a super rewarding project to work on. 
 
